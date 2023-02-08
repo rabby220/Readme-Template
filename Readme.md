@@ -1,23 +1,23 @@
 <!--markdown tutorial-->
 
-Anisul Islam<br/>
+Fajla Rabby<br/>
 This is second line
 
 ---
 
-# Anisul Islam
+# Fajla Rabby
 
-## Anisul Islam
+## Fajla Rabby
 
-### Anisul Islam
+### Fajla Rabby
 
-#### Anisul Islam
+#### Fajla Rabby
 
-##### Anisul Islam
+##### Fajla Rabby
 
-###### Anisul Islam
+###### Fajla Rabby
 
-<p>This is anisul islam. I am 31 years old. I just finished my masters at Tampere University</p>
+<p>This is Fajla Rabby. I am 24 years old. I just finished my Bsc at Green University</p>
 
 <br/>
 
@@ -104,19 +104,19 @@ console.log("hello");
 
 ### automatic link
 
-http://www.studywithanis.com
+http://www.facebook.com/rabby220
 
 ### disable link
 
-`http://www.studywithanis.com`
+`http://www.facebook.com/rabby220`
 
 ### markdown link sytax
 
-[studywithanis](http://www.studywithanis.com)
+[facebook](http://www.facebook.com/rabby220)
 
 ### markdown link sytax
 
-[studywithanis][websitelink]
+[facebook][websitelink]
 [facebook][facebooklink]
 
 <br/>
@@ -124,7 +124,7 @@ http://www.studywithanis.com
 ### image sytax
 
 <!-- ![profile](./images/me.jpg) -->
-<img src="./images/me.JPG" width="400" title="profile image"/>
+<img src="./images/my_picture.JPG" width="400" title="profile image"/>
 😊
 
 <br/>
@@ -133,12 +133,12 @@ http://www.studywithanis.com
 
 | Name         | Email                  |
 | ------------ | ---------------------- |
-| Anisul Islam | Text is here           |
-| Anisul Islam | anisul2010@yahoo.co.uk |
-| Anisul Islam | Text is here           |
+| Fajla Rabby | Text is here           |
+| Fajla Rabby | fajlarabby220@gmail.com |
+| Fajla Rabby | Text is here           |
 
 <!-- all link is here -->
 
-[websitelink]: http://www.studywithanis.com
-[facebooklink]: https://www.facebook.com/studywithanis
+[websitelink]: http://www.facebook.com/rabby220
+[facebooklink]: http://www.facebook.com/rabby220
 
