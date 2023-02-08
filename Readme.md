@@ -1,94 +1,144 @@
-<!-- MarkDown Tutorial-->
+<!--markdown tutorial-->
 
-Normal Text  
-
-New Line  
-
----
-
-# Heading 1
-## Heading 2
-### Heading 3
-#### Heading 4
-##### Heading 5
-###### Heading 6   
-
+Anisul Islam<br/>
+This is second line
 
 ---
 
-<p>
+# Anisul Islam
 
-This is a paragraph
+## Anisul Islam
 
-</p>
+### Anisul Islam
 
+#### Anisul Islam
 
+##### Anisul Islam
 
+###### Anisul Islam
 
----
+<p>This is anisul islam. I am 31 years old. I just finished my masters at Tampere University</p>
 
+<br/>
 
-_This is an italic text_  
+### italic text
 
+_This is an italic text_
 
+<br/>
 
----
+### bold text
 
+**This is an italic text**
 
+<br/>
 
-__This is an bold text__
+### Strikethorugh
 
+~~this is~~
 
----
+<br/>
 
+### single line code
 
+`This is inline`  
+`<h1> Bangladesh </h1>`
 
-<!--  Strikethrough  or delete text-->
-<del>
+<br/>
 
- This is a delete text.
+### Multiple line code
 
- </del>
+```
+  <html>
+  <head> </head>
+  <body> </body>
+  </html>
+```
 
- ~~This is a delete text ~~
-
-
- ---
-
-
- <!-- Inline blocks -->
-
- 'inline blocks'  
- 
-
- ---
-
-
- '''
- html
-
+```html
 <html>
-
-<head> </head>
-
-<body>
-
-<body>
-
+  <head> </head>
+  <body></body>
 </html>
- '''
+```
 
+```css
+head {
+  background-color: green;
+}
+```
 
- ---
+```javascript
+console.log("hello");
+```
 
+<br/>
 
+### Ordered List
 
+1. Item1
+2. Item2
+   1. Item1.1
+   2. Item1.2
+3. Item3
 
+<br/>
 
+### Unordered List
 
+- item1
+  - item1.1
+  - item1.2
+- item2
+- item3
 
+<br/>
 
+### Task List
 
+- [x] Task1
+- [x] Task1
+- [] Task1
 
+<br/>
 
+### automatic link
+
+http://www.studywithanis.com
+
+### disable link
+
+`http://www.studywithanis.com`
+
+### markdown link sytax
+
+[studywithanis](http://www.studywithanis.com)
+
+### markdown link sytax
+
+[studywithanis][websitelink]
+[facebook][facebooklink]
+
+<br/>
+
+### image sytax
+
+<!-- ![profile](./images/me.jpg) -->
+<img src="./images/me.JPG" width="400" title="profile image"/>
+😊
+
+<br/>
+
+### table sytax
+
+| Name         | Email                  |
+| ------------ | ---------------------- |
+| Anisul Islam | Text is here           |
+| Anisul Islam | anisul2010@yahoo.co.uk |
+| Anisul Islam | Text is here           |
+
+<!-- all link is here -->
+
+[websitelink]: http://www.studywithanis.com
+[facebooklink]: https://www.facebook.com/studywithanis
 
